@@ -482,4 +482,6 @@ Pour découvrir les GitHub Actions de manière interactive, suivez les leçons d
 
 👉 [https://github-actions-hero.vercel.app/lessons/1](https://github-actions-hero.vercel.app/lessons/1)
 
----
+## Auteur(s)
+| [<img src="https://github.com/Kapwiing.png?size=85" width=85><br><sub>Guillaume CBV</sub>](https://github.com/EdenComp)
+| :---:

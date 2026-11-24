@@ -199,3 +199,7 @@ Par exemple, si vous voulez ajouter seulement certaines modifications d'un fichi
 Et il y a bien d'autres commandes ! À vous de les découvrir :)
 
 Je vous laisse avec ce site : [https://learngitbranching.js.org/](https://learngitbranching.js.org/), qui vous apprendra encore mieux à utiliser les branches Git.
+
+## Auteur(s)
+| [<img src="https://github.com/Steci.png?size=85" width=85><br><sub>Léa Guillemard</sub>](https://github.com/EdenComp)
+| :---:
